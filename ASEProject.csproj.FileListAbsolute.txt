@@ -1,0 +1,10 @@
+C:\Users\alton\source\repos\ASEProject\ASEProject\bin\Debug\ASEProject.exe.config
+C:\Users\alton\source\repos\ASEProject\ASEProject\bin\Debug\ASEProject.exe
+C:\Users\alton\source\repos\ASEProject\ASEProject\bin\Debug\ASEProject.pdb
+C:\Users\alton\source\repos\ASEProject\ASEProject\obj\Debug\ASEProject.csproj.AssemblyReference.cache
+C:\Users\alton\source\repos\ASEProject\ASEProject\obj\Debug\ASEProject.Properties.Resources.resources
+C:\Users\alton\source\repos\ASEProject\ASEProject\obj\Debug\ASEProject.csproj.GenerateResource.cache
+C:\Users\alton\source\repos\ASEProject\ASEProject\obj\Debug\ASEProject.csproj.CoreCompileInputs.cache
+C:\Users\alton\source\repos\ASEProject\ASEProject\obj\Debug\ASEProject.exe
+C:\Users\alton\source\repos\ASEProject\ASEProject\obj\Debug\ASEProject.pdb
+C:\Users\alton\source\repos\ASEProject\ASEProject\obj\Debug\ASEProject.Form1.resources
